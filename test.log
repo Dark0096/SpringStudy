@@ -1,0 +1,602 @@
+objc[67432]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin/java (0x102bda4c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x102cca4e0). One of the two will be used. Which one is undefined.
+22:55:20.997 [pool-1-thread-67] INFO com.example.demo.LoadTest - Thread 68
+22:55:20.997 [pool-1-thread-51] INFO com.example.demo.LoadTest - Thread 52
+22:55:20.997 [pool-1-thread-74] INFO com.example.demo.LoadTest - Thread 75
+22:55:20.996 [pool-1-thread-40] INFO com.example.demo.LoadTest - Thread 41
+22:55:20.997 [pool-1-thread-100] INFO com.example.demo.LoadTest - Thread 101
+22:55:20.996 [pool-1-thread-87] INFO com.example.demo.LoadTest - Thread 88
+22:55:20.996 [pool-1-thread-18] INFO com.example.demo.LoadTest - Thread 19
+22:55:20.996 [pool-1-thread-75] INFO com.example.demo.LoadTest - Thread 76
+22:55:20.996 [pool-1-thread-80] INFO com.example.demo.LoadTest - Thread 81
+22:55:20.996 [pool-1-thread-76] INFO com.example.demo.LoadTest - Thread 77
+22:55:20.997 [pool-1-thread-93] INFO com.example.demo.LoadTest - Thread 94
+22:55:20.997 [pool-1-thread-73] INFO com.example.demo.LoadTest - Thread 74
+22:55:20.997 [pool-1-thread-9] INFO com.example.demo.LoadTest - Thread 10
+22:55:20.997 [pool-1-thread-42] INFO com.example.demo.LoadTest - Thread 43
+22:55:20.996 [pool-1-thread-20] INFO com.example.demo.LoadTest - Thread 21
+22:55:20.996 [pool-1-thread-4] INFO com.example.demo.LoadTest - Thread 5
+22:55:20.997 [pool-1-thread-64] INFO com.example.demo.LoadTest - Thread 65
+22:55:20.997 [pool-1-thread-25] INFO com.example.demo.LoadTest - Thread 26
+22:55:20.997 [pool-1-thread-35] INFO com.example.demo.LoadTest - Thread 36
+22:55:20.997 [pool-1-thread-34] INFO com.example.demo.LoadTest - Thread 35
+22:55:20.997 [pool-1-thread-36] INFO com.example.demo.LoadTest - Thread 37
+22:55:20.997 [pool-1-thread-43] INFO com.example.demo.LoadTest - Thread 44
+22:55:20.997 [pool-1-thread-52] INFO com.example.demo.LoadTest - Thread 53
+22:55:20.996 [pool-1-thread-82] INFO com.example.demo.LoadTest - Thread 83
+22:55:20.996 [pool-1-thread-55] INFO com.example.demo.LoadTest - Thread 56
+22:55:20.997 [pool-1-thread-33] INFO com.example.demo.LoadTest - Thread 34
+22:55:20.996 [pool-1-thread-61] INFO com.example.demo.LoadTest - Thread 62
+22:55:20.996 [pool-1-thread-39] INFO com.example.demo.LoadTest - Thread 40
+22:55:20.996 [pool-1-thread-28] INFO com.example.demo.LoadTest - Thread 29
+22:55:20.997 [pool-1-thread-41] INFO com.example.demo.LoadTest - Thread 42
+22:55:20.997 [pool-1-thread-92] INFO com.example.demo.LoadTest - Thread 93
+22:55:20.997 [pool-1-thread-13] INFO com.example.demo.LoadTest - Thread 14
+22:55:20.997 [pool-1-thread-10] INFO com.example.demo.LoadTest - Thread 11
+22:55:20.997 [pool-1-thread-90] INFO com.example.demo.LoadTest - Thread 91
+22:55:20.996 [pool-1-thread-79] INFO com.example.demo.LoadTest - Thread 80
+22:55:20.996 [pool-1-thread-6] INFO com.example.demo.LoadTest - Thread 7
+22:55:20.996 [pool-1-thread-58] INFO com.example.demo.LoadTest - Thread 59
+22:55:20.996 [pool-1-thread-2] INFO com.example.demo.LoadTest - Thread 3
+22:55:20.996 [pool-1-thread-29] INFO com.example.demo.LoadTest - Thread 30
+22:55:20.996 [pool-1-thread-15] INFO com.example.demo.LoadTest - Thread 16
+22:55:20.996 [pool-1-thread-19] INFO com.example.demo.LoadTest - Thread 20
+22:55:20.996 [pool-1-thread-37] INFO com.example.demo.LoadTest - Thread 38
+22:55:20.996 [pool-1-thread-30] INFO com.example.demo.LoadTest - Thread 31
+22:55:20.997 [pool-1-thread-44] INFO com.example.demo.LoadTest - Thread 45
+22:55:20.997 [pool-1-thread-70] INFO com.example.demo.LoadTest - Thread 71
+22:55:20.997 [pool-1-thread-62] INFO com.example.demo.LoadTest - Thread 63
+22:55:20.996 [pool-1-thread-88] INFO com.example.demo.LoadTest - Thread 89
+22:55:20.996 [pool-1-thread-32] INFO com.example.demo.LoadTest - Thread 33
+22:55:20.996 [pool-1-thread-84] INFO com.example.demo.LoadTest - Thread 85
+22:55:20.997 [pool-1-thread-95] INFO com.example.demo.LoadTest - Thread 96
+22:55:20.997 [pool-1-thread-94] INFO com.example.demo.LoadTest - Thread 95
+22:55:20.996 [pool-1-thread-31] INFO com.example.demo.LoadTest - Thread 32
+22:55:20.996 [pool-1-thread-85] INFO com.example.demo.LoadTest - Thread 86
+22:55:20.997 [pool-1-thread-63] INFO com.example.demo.LoadTest - Thread 64
+22:55:20.997 [pool-1-thread-26] INFO com.example.demo.LoadTest - Thread 27
+22:55:20.997 [pool-1-thread-45] INFO com.example.demo.LoadTest - Thread 46
+22:55:20.997 [pool-1-thread-66] INFO com.example.demo.LoadTest - Thread 67
+22:55:20.996 [pool-1-thread-47] INFO com.example.demo.LoadTest - Thread 48
+22:55:20.997 [pool-1-thread-96] INFO com.example.demo.LoadTest - Thread 97
+22:55:20.997 [pool-1-thread-8] INFO com.example.demo.LoadTest - Thread 9
+22:55:20.996 [pool-1-thread-56] INFO com.example.demo.LoadTest - Thread 57
+22:55:20.997 [pool-1-thread-97] INFO com.example.demo.LoadTest - Thread 98
+22:55:20.997 [pool-1-thread-12] INFO com.example.demo.LoadTest - Thread 13
+22:55:20.997 [pool-1-thread-77] INFO com.example.demo.LoadTest - Thread 78
+22:55:20.997 [pool-1-thread-99] INFO com.example.demo.LoadTest - Thread 100
+22:55:20.996 [pool-1-thread-3] INFO com.example.demo.LoadTest - Thread 4
+22:55:20.996 [pool-1-thread-5] INFO com.example.demo.LoadTest - Thread 6
+22:55:20.996 [pool-1-thread-38] INFO com.example.demo.LoadTest - Thread 39
+22:55:20.997 [pool-1-thread-48] INFO com.example.demo.LoadTest - Thread 49
+22:55:20.997 [pool-1-thread-46] INFO com.example.demo.LoadTest - Thread 47
+22:55:20.996 [pool-1-thread-23] INFO com.example.demo.LoadTest - Thread 24
+22:55:20.996 [pool-1-thread-81] INFO com.example.demo.LoadTest - Thread 82
+22:55:20.996 [pool-1-thread-14] INFO com.example.demo.LoadTest - Thread 15
+22:55:20.997 [pool-1-thread-71] INFO com.example.demo.LoadTest - Thread 72
+22:55:20.996 [pool-1-thread-60] INFO com.example.demo.LoadTest - Thread 61
+22:55:20.996 [pool-1-thread-16] INFO com.example.demo.LoadTest - Thread 17
+22:55:20.996 [pool-1-thread-27] INFO com.example.demo.LoadTest - Thread 28
+22:55:20.997 [pool-1-thread-49] INFO com.example.demo.LoadTest - Thread 50
+22:55:20.996 [pool-1-thread-17] INFO com.example.demo.LoadTest - Thread 18
+22:55:20.997 [pool-1-thread-22] INFO com.example.demo.LoadTest - Thread 23
+22:55:20.996 [pool-1-thread-59] INFO com.example.demo.LoadTest - Thread 60
+22:55:20.997 [pool-1-thread-1] INFO com.example.demo.LoadTest - Thread 2
+22:55:20.997 [pool-1-thread-98] INFO com.example.demo.LoadTest - Thread 99
+22:55:20.996 [pool-1-thread-78] INFO com.example.demo.LoadTest - Thread 79
+22:55:20.997 [pool-1-thread-53] INFO com.example.demo.LoadTest - Thread 54
+22:55:20.999 [pool-1-thread-50] INFO com.example.demo.LoadTest - Thread 51
+22:55:20.996 [pool-1-thread-86] INFO com.example.demo.LoadTest - Thread 87
+22:55:20.997 [pool-1-thread-21] INFO com.example.demo.LoadTest - Thread 22
+22:55:20.997 [pool-1-thread-91] INFO com.example.demo.LoadTest - Thread 92
+22:55:20.997 [pool-1-thread-11] INFO com.example.demo.LoadTest - Thread 12
+22:55:20.997 [pool-1-thread-7] INFO com.example.demo.LoadTest - Thread 8
+22:55:20.996 [pool-1-thread-83] INFO com.example.demo.LoadTest - Thread 84
+22:55:20.997 [pool-1-thread-65] INFO com.example.demo.LoadTest - Thread 66
+22:55:20.997 [pool-1-thread-24] INFO com.example.demo.LoadTest - Thread 25
+22:55:20.996 [pool-1-thread-57] INFO com.example.demo.LoadTest - Thread 58
+22:55:20.997 [pool-1-thread-72] INFO com.example.demo.LoadTest - Thread 73
+22:55:20.997 [pool-1-thread-54] INFO com.example.demo.LoadTest - Thread 55
+22:55:20.997 [pool-1-thread-68] INFO com.example.demo.LoadTest - Thread 69
+22:55:20.997 [pool-1-thread-69] INFO com.example.demo.LoadTest - Thread 70
+22:55:20.997 [pool-1-thread-89] INFO com.example.demo.LoadTest - Thread 90
+22:55:21.047 [pool-1-thread-20] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=21"
+22:55:21.047 [pool-1-thread-79] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=80"
+22:55:21.047 [pool-1-thread-69] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=70"
+22:55:21.047 [pool-1-thread-30] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=31"
+22:55:21.047 [pool-1-thread-11] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=12"
+22:55:21.047 [pool-1-thread-4] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=5"
+22:55:21.047 [pool-1-thread-7] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=8"
+22:55:21.047 [pool-1-thread-21] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=22"
+22:55:21.047 [pool-1-thread-81] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=82"
+22:55:21.047 [pool-1-thread-43] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=44"
+22:55:21.047 [pool-1-thread-96] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=97"
+22:55:21.047 [pool-1-thread-26] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=27"
+22:55:21.047 [pool-1-thread-9] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=10"
+22:55:21.047 [pool-1-thread-27] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=28"
+22:55:21.047 [pool-1-thread-51] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=52"
+22:55:21.047 [pool-1-thread-3] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=4"
+22:55:21.047 [pool-1-thread-98] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=99"
+22:55:21.047 [pool-1-thread-82] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=83"
+22:55:21.047 [pool-1-thread-42] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=43"
+22:55:21.047 [pool-1-thread-83] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=84"
+22:55:21.047 [pool-1-thread-66] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=67"
+22:55:21.047 [pool-1-thread-63] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=64"
+22:55:21.047 [pool-1-thread-2] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=3"
+22:55:21.047 [pool-1-thread-68] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=69"
+22:55:21.047 [pool-1-thread-39] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=40"
+22:55:21.047 [pool-1-thread-56] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=57"
+22:55:21.047 [pool-1-thread-14] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=15"
+22:55:21.047 [pool-1-thread-12] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=13"
+22:55:21.047 [pool-1-thread-35] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=36"
+22:55:21.047 [pool-1-thread-23] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=24"
+22:55:21.047 [pool-1-thread-85] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=86"
+22:55:21.047 [pool-1-thread-80] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=81"
+22:55:21.047 [pool-1-thread-37] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=38"
+22:55:21.047 [pool-1-thread-54] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=55"
+22:55:21.047 [pool-1-thread-38] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=39"
+22:55:21.047 [pool-1-thread-94] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=95"
+22:55:21.047 [pool-1-thread-46] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=47"
+22:55:21.048 [pool-1-thread-44] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=45"
+22:55:21.048 [pool-1-thread-50] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=51"
+22:55:21.048 [pool-1-thread-33] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=34"
+22:55:21.048 [pool-1-thread-75] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=76"
+22:55:21.048 [pool-1-thread-99] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=100"
+22:55:21.048 [pool-1-thread-25] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=26"
+22:55:21.048 [pool-1-thread-74] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=75"
+22:55:21.048 [pool-1-thread-48] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=49"
+22:55:21.048 [pool-1-thread-64] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=65"
+22:55:21.048 [pool-1-thread-47] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=48"
+22:55:21.048 [pool-1-thread-40] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=41"
+22:55:21.048 [pool-1-thread-62] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=63"
+22:55:21.048 [pool-1-thread-24] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=25"
+22:55:21.048 [pool-1-thread-52] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=53"
+22:55:21.048 [pool-1-thread-17] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=18"
+22:55:21.048 [pool-1-thread-15] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=16"
+22:55:21.048 [pool-1-thread-22] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=23"
+22:55:21.048 [pool-1-thread-34] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=35"
+22:55:21.048 [pool-1-thread-19] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=20"
+22:55:21.048 [pool-1-thread-59] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=60"
+22:55:21.048 [pool-1-thread-45] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=46"
+22:55:21.048 [pool-1-thread-1] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=2"
+22:55:21.048 [pool-1-thread-36] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=37"
+22:55:21.048 [pool-1-thread-70] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=71"
+22:55:21.048 [pool-1-thread-18] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=19"
+22:55:21.049 [pool-1-thread-76] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=77"
+22:55:21.049 [pool-1-thread-84] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=85"
+22:55:21.049 [pool-1-thread-91] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=92"
+22:55:21.049 [pool-1-thread-10] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=11"
+22:55:21.049 [pool-1-thread-13] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=14"
+22:55:21.049 [pool-1-thread-29] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=30"
+22:55:21.049 [pool-1-thread-90] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=91"
+22:55:21.049 [pool-1-thread-55] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=56"
+22:55:21.049 [pool-1-thread-8] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=9"
+22:55:21.049 [pool-1-thread-100] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=101"
+22:55:21.049 [pool-1-thread-97] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=98"
+22:55:21.049 [pool-1-thread-57] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=58"
+22:55:21.049 [pool-1-thread-28] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=29"
+22:55:21.049 [pool-1-thread-87] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=88"
+22:55:21.050 [pool-1-thread-89] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=90"
+22:55:21.050 [pool-1-thread-65] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=66"
+22:55:21.050 [pool-1-thread-6] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=7"
+22:55:21.050 [pool-1-thread-53] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=54"
+22:55:21.050 [pool-1-thread-16] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=17"
+22:55:21.050 [pool-1-thread-73] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=74"
+22:55:21.050 [pool-1-thread-41] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=42"
+22:55:21.050 [pool-1-thread-88] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=89"
+22:55:21.050 [pool-1-thread-67] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=68"
+22:55:21.050 [pool-1-thread-93] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=94"
+22:55:21.050 [pool-1-thread-32] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=33"
+22:55:21.050 [pool-1-thread-92] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=93"
+22:55:21.050 [pool-1-thread-49] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=50"
+22:55:21.050 [pool-1-thread-72] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=73"
+22:55:21.050 [pool-1-thread-31] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=32"
+22:55:21.050 [pool-1-thread-71] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=72"
+22:55:21.050 [pool-1-thread-77] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=78"
+22:55:21.050 [pool-1-thread-95] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=96"
+22:55:21.050 [pool-1-thread-86] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=87"
+22:55:21.050 [pool-1-thread-61] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=62"
+22:55:21.050 [pool-1-thread-58] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=59"
+22:55:21.050 [pool-1-thread-5] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=6"
+22:55:21.050 [pool-1-thread-60] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=61"
+22:55:21.050 [pool-1-thread-78] DEBUG org.springframework.web.client.RestTemplate - Created GET request for "http://localhost:8080/rest?idx=79"
+22:55:21.056 [pool-1-thread-29] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.056 [pool-1-thread-9] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.056 [pool-1-thread-78] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.056 [pool-1-thread-17] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.056 [pool-1-thread-26] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.056 [pool-1-thread-52] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-24] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-35] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-60] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-90] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-39] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-3] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-94] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-15] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-66] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-58] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-98] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-23] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-22] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-75] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-25] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-61] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-76] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-7] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-74] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.057 [pool-1-thread-86] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-13] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-84] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-10] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-68] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-77] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-95] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-14] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-91] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-56] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-21] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-40] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-71] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-34] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-31] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-33] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-72] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-62] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-54] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-5] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-92] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-46] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-32] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-2] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-82] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-93] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-19] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-69] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.058 [pool-1-thread-88] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-59] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-67] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-16] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-30] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-37] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-45] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-47] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-41] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-1] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-6] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-50] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-44] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-53] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-65] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-89] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-42] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-64] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-27] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-51] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-83] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-20] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-48] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-100] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-85] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-87] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-99] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-38] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-4] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-57] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-79] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-8] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.059 [pool-1-thread-96] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.060 [pool-1-thread-18] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.060 [pool-1-thread-28] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.060 [pool-1-thread-63] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.060 [pool-1-thread-55] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.060 [pool-1-thread-43] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.060 [pool-1-thread-36] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-49] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-70] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-97] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-12] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-81] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-73] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-11] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:21.061 [pool-1-thread-80] DEBUG org.springframework.web.client.RestTemplate - Setting request Accept header to [text/plain, application/json, application/*+json, */*]
+22:55:24.827 [pool-1-thread-100] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=101" resulted in 200 (OK)
+22:55:24.827 [pool-1-thread-39] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=40" resulted in 200 (OK)
+22:55:24.832 [pool-1-thread-100] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:24.832 [pool-1-thread-39] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:24.834 [pool-1-thread-100] INFO com.example.demo.LoadTest - Elapsed: 101 3.831 / hello101/service
+22:55:24.834 [pool-1-thread-39] INFO com.example.demo.LoadTest - Elapsed: 40 3.83 / hello40/service
+22:55:26.830 [pool-1-thread-75] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=76" resulted in 200 (OK)
+22:55:26.831 [pool-1-thread-75] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:26.831 [pool-1-thread-75] INFO com.example.demo.LoadTest - Elapsed: 76 5.828 / hello76/service
+22:55:26.834 [pool-1-thread-48] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=49" resulted in 200 (OK)
+22:55:26.834 [pool-1-thread-48] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:26.834 [pool-1-thread-48] INFO com.example.demo.LoadTest - Elapsed: 49 5.828 / hello49/service
+22:55:28.831 [pool-1-thread-78] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=79" resulted in 200 (OK)
+22:55:28.831 [pool-1-thread-79] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=80" resulted in 200 (OK)
+22:55:28.831 [pool-1-thread-79] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:28.831 [pool-1-thread-79] INFO com.example.demo.LoadTest - Elapsed: 80 7.827 / hello80/service
+22:55:28.833 [pool-1-thread-78] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:28.833 [pool-1-thread-78] INFO com.example.demo.LoadTest - Elapsed: 79 7.824 / hello79/service
+22:55:28.840 [pool-1-thread-62] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=63" resulted in 200 (OK)
+22:55:28.840 [pool-1-thread-94] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=95" resulted in 200 (OK)
+22:55:28.840 [pool-1-thread-94] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:28.840 [pool-1-thread-62] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:28.841 [pool-1-thread-94] INFO com.example.demo.LoadTest - Elapsed: 95 7.837 / hello95/service
+22:55:28.841 [pool-1-thread-62] INFO com.example.demo.LoadTest - Elapsed: 63 7.837 / hello63/service
+22:55:30.839 [pool-1-thread-51] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=52" resulted in 200 (OK)
+22:55:30.840 [pool-1-thread-40] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=41" resulted in 200 (OK)
+22:55:30.840 [pool-1-thread-16] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=17" resulted in 200 (OK)
+22:55:30.840 [pool-1-thread-51] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:30.840 [pool-1-thread-16] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:30.841 [pool-1-thread-16] INFO com.example.demo.LoadTest - Elapsed: 17 9.834 / hello17/service
+22:55:30.841 [pool-1-thread-51] INFO com.example.demo.LoadTest - Elapsed: 52 9.839 / hello52/service
+22:55:30.841 [pool-1-thread-40] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:30.841 [pool-1-thread-40] INFO com.example.demo.LoadTest - Elapsed: 41 9.839 / hello41/service
+22:55:30.847 [pool-1-thread-61] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=62" resulted in 200 (OK)
+22:55:30.847 [pool-1-thread-18] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=19" resulted in 200 (OK)
+22:55:30.848 [pool-1-thread-61] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:30.848 [pool-1-thread-18] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:30.848 [pool-1-thread-18] INFO com.example.demo.LoadTest - Elapsed: 19 9.845 / hello19/service
+22:55:30.848 [pool-1-thread-61] INFO com.example.demo.LoadTest - Elapsed: 62 9.844 / hello62/service
+22:55:32.843 [pool-1-thread-85] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=86" resulted in 200 (OK)
+22:55:32.843 [pool-1-thread-65] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=66" resulted in 200 (OK)
+22:55:32.844 [pool-1-thread-65] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:32.844 [pool-1-thread-85] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:32.844 [pool-1-thread-65] INFO com.example.demo.LoadTest - Elapsed: 66 11.834 / hello66/service
+22:55:32.844 [pool-1-thread-85] INFO com.example.demo.LoadTest - Elapsed: 86 11.84 / hello86/service
+22:55:32.847 [pool-1-thread-22] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=23" resulted in 200 (OK)
+22:55:32.847 [pool-1-thread-22] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:32.848 [pool-1-thread-22] INFO com.example.demo.LoadTest - Elapsed: 23 11.84 / hello23/service
+22:55:32.855 [pool-1-thread-2] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=3" resulted in 200 (OK)
+22:55:32.855 [pool-1-thread-2] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:32.855 [pool-1-thread-2] INFO com.example.demo.LoadTest - Elapsed: 3 11.851 / hello3/service
+22:55:32.856 [pool-1-thread-57] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=58" resulted in 200 (OK)
+22:55:32.856 [pool-1-thread-57] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:32.857 [pool-1-thread-57] INFO com.example.demo.LoadTest - Elapsed: 58 11.846 / hello58/service
+22:55:32.857 [pool-1-thread-12] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=13" resulted in 200 (OK)
+22:55:32.857 [pool-1-thread-12] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:32.857 [pool-1-thread-12] INFO com.example.demo.LoadTest - Elapsed: 13 11.852 / hello13/service
+22:55:34.849 [pool-1-thread-72] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=73" resulted in 200 (OK)
+22:55:34.849 [pool-1-thread-59] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=60" resulted in 200 (OK)
+22:55:34.849 [pool-1-thread-72] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:34.850 [pool-1-thread-59] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:34.850 [pool-1-thread-72] INFO com.example.demo.LoadTest - Elapsed: 73 13.84 / hello73/service
+22:55:34.851 [pool-1-thread-59] INFO com.example.demo.LoadTest - Elapsed: 60 13.842 / hello60/service
+22:55:34.856 [pool-1-thread-5] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=6" resulted in 200 (OK)
+22:55:34.856 [pool-1-thread-5] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:34.856 [pool-1-thread-5] INFO com.example.demo.LoadTest - Elapsed: 6 13.851 / hello6/service
+22:55:34.863 [pool-1-thread-20] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=21" resulted in 200 (OK)
+22:55:34.863 [pool-1-thread-23] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=24" resulted in 200 (OK)
+22:55:34.863 [pool-1-thread-64] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=65" resulted in 200 (OK)
+22:55:34.863 [pool-1-thread-20] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:34.863 [pool-1-thread-23] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:34.863 [pool-1-thread-64] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:34.863 [pool-1-thread-20] INFO com.example.demo.LoadTest - Elapsed: 21 13.86 / hello21/service
+22:55:34.864 [pool-1-thread-64] INFO com.example.demo.LoadTest - Elapsed: 65 13.861 / hello65/service
+22:55:34.864 [pool-1-thread-23] INFO com.example.demo.LoadTest - Elapsed: 24 13.858 / hello24/service
+22:55:36.857 [pool-1-thread-88] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=89" resulted in 200 (OK)
+22:55:36.857 [pool-1-thread-97] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=98" resulted in 200 (OK)
+22:55:36.858 [pool-1-thread-88] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:36.858 [pool-1-thread-97] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:36.858 [pool-1-thread-97] INFO com.example.demo.LoadTest - Elapsed: 98 15.853 / hello98/service
+22:55:36.858 [pool-1-thread-88] INFO com.example.demo.LoadTest - Elapsed: 89 15.854 / hello89/service
+22:55:36.865 [pool-1-thread-36] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=37" resulted in 200 (OK)
+22:55:36.866 [pool-1-thread-36] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:36.866 [pool-1-thread-36] INFO com.example.demo.LoadTest - Elapsed: 37 15.863 / hello37/service
+22:55:36.869 [pool-1-thread-71] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=72" resulted in 200 (OK)
+22:55:36.869 [pool-1-thread-71] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:36.870 [pool-1-thread-73] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=74" resulted in 200 (OK)
+22:55:36.870 [pool-1-thread-71] INFO com.example.demo.LoadTest - Elapsed: 72 15.863 / hello72/service
+22:55:36.870 [pool-1-thread-73] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:36.870 [pool-1-thread-15] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=16" resulted in 200 (OK)
+22:55:36.870 [pool-1-thread-73] INFO com.example.demo.LoadTest - Elapsed: 74 15.867 / hello74/service
+22:55:36.870 [pool-1-thread-15] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:36.870 [pool-1-thread-15] INFO com.example.demo.LoadTest - Elapsed: 16 15.866 / hello16/service
+22:55:38.865 [pool-1-thread-82] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=83" resulted in 200 (OK)
+22:55:38.865 [pool-1-thread-82] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:38.865 [pool-1-thread-31] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=32" resulted in 200 (OK)
+22:55:38.866 [pool-1-thread-82] INFO com.example.demo.LoadTest - Elapsed: 83 17.862 / hello83/service
+22:55:38.866 [pool-1-thread-31] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:38.866 [pool-1-thread-31] INFO com.example.demo.LoadTest - Elapsed: 32 17.862 / hello32/service
+22:55:38.875 [pool-1-thread-8] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=9" resulted in 200 (OK)
+22:55:38.875 [pool-1-thread-13] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=14" resulted in 200 (OK)
+22:55:38.875 [pool-1-thread-43] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=44" resulted in 200 (OK)
+22:55:38.875 [pool-1-thread-43] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:38.875 [pool-1-thread-8] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:38.875 [pool-1-thread-13] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:38.875 [pool-1-thread-43] INFO com.example.demo.LoadTest - Elapsed: 44 17.872 / hello44/service
+22:55:38.875 [pool-1-thread-8] INFO com.example.demo.LoadTest - Elapsed: 9 17.87 / hello9/service
+22:55:38.875 [pool-1-thread-13] INFO com.example.demo.LoadTest - Elapsed: 14 17.871 / hello14/service
+22:55:38.878 [pool-1-thread-11] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=12" resulted in 200 (OK)
+22:55:38.878 [pool-1-thread-11] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:38.878 [pool-1-thread-11] INFO com.example.demo.LoadTest - Elapsed: 12 17.868 / hello12/service
+22:55:40.868 [pool-1-thread-63] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=64" resulted in 200 (OK)
+22:55:40.868 [pool-1-thread-33] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=34" resulted in 200 (OK)
+22:55:40.868 [pool-1-thread-63] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:40.868 [pool-1-thread-33] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:40.868 [pool-1-thread-63] INFO com.example.demo.LoadTest - Elapsed: 64 19.864 / hello64/service
+22:55:40.869 [pool-1-thread-33] INFO com.example.demo.LoadTest - Elapsed: 34 19.864 / hello34/service
+22:55:40.883 [pool-1-thread-87] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=88" resulted in 200 (OK)
+22:55:40.883 [pool-1-thread-76] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=77" resulted in 200 (OK)
+22:55:40.884 [pool-1-thread-92] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=93" resulted in 200 (OK)
+22:55:40.884 [pool-1-thread-76] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:40.884 [pool-1-thread-92] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:40.884 [pool-1-thread-76] INFO com.example.demo.LoadTest - Elapsed: 77 19.881 / hello77/service
+22:55:40.884 [pool-1-thread-34] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=35" resulted in 200 (OK)
+22:55:40.884 [pool-1-thread-92] INFO com.example.demo.LoadTest - Elapsed: 93 19.88 / hello93/service
+22:55:40.884 [pool-1-thread-87] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:40.884 [pool-1-thread-87] INFO com.example.demo.LoadTest - Elapsed: 88 19.881 / hello88/service
+22:55:40.884 [pool-1-thread-34] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:40.885 [pool-1-thread-34] INFO com.example.demo.LoadTest - Elapsed: 35 19.882 / hello35/service
+22:55:42.874 [pool-1-thread-21] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=22" resulted in 200 (OK)
+22:55:42.874 [pool-1-thread-70] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=71" resulted in 200 (OK)
+22:55:42.874 [pool-1-thread-21] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:42.874 [pool-1-thread-70] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:42.875 [pool-1-thread-21] INFO com.example.demo.LoadTest - Elapsed: 22 21.865 / hello22/service
+22:55:42.875 [pool-1-thread-70] INFO com.example.demo.LoadTest - Elapsed: 71 21.871 / hello71/service
+22:55:42.893 [pool-1-thread-9] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=10" resulted in 200 (OK)
+22:55:42.893 [pool-1-thread-83] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=84" resulted in 200 (OK)
+22:55:42.893 [pool-1-thread-98] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=99" resulted in 200 (OK)
+22:55:42.894 [pool-1-thread-9] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:42.893 [pool-1-thread-58] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=59" resulted in 200 (OK)
+22:55:42.894 [pool-1-thread-58] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:42.894 [pool-1-thread-9] INFO com.example.demo.LoadTest - Elapsed: 10 21.891 / hello10/service
+22:55:42.894 [pool-1-thread-58] INFO com.example.demo.LoadTest - Elapsed: 59 21.89 / hello59/service
+22:55:42.894 [pool-1-thread-98] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:42.894 [pool-1-thread-83] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:42.895 [pool-1-thread-83] INFO com.example.demo.LoadTest - Elapsed: 84 21.885 / hello84/service
+22:55:42.895 [pool-1-thread-98] INFO com.example.demo.LoadTest - Elapsed: 99 21.886 / hello99/service
+22:55:44.880 [pool-1-thread-29] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=30" resulted in 200 (OK)
+22:55:44.880 [pool-1-thread-38] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=39" resulted in 200 (OK)
+22:55:44.881 [pool-1-thread-38] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:44.881 [pool-1-thread-29] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:44.881 [pool-1-thread-38] INFO com.example.demo.LoadTest - Elapsed: 39 23.876 / hello39/service
+22:55:44.881 [pool-1-thread-29] INFO com.example.demo.LoadTest - Elapsed: 30 23.877 / hello30/service
+22:55:44.902 [pool-1-thread-10] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=11" resulted in 200 (OK)
+22:55:44.902 [pool-1-thread-27] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=28" resulted in 200 (OK)
+22:55:44.902 [pool-1-thread-84] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=85" resulted in 200 (OK)
+22:55:44.902 [pool-1-thread-67] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=68" resulted in 200 (OK)
+22:55:44.903 [pool-1-thread-84] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:44.903 [pool-1-thread-67] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:44.903 [pool-1-thread-10] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:44.903 [pool-1-thread-84] INFO com.example.demo.LoadTest - Elapsed: 85 23.899 / hello85/service
+22:55:44.903 [pool-1-thread-67] INFO com.example.demo.LoadTest - Elapsed: 68 23.901 / hello68/service
+22:55:44.903 [pool-1-thread-27] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:44.903 [pool-1-thread-10] INFO com.example.demo.LoadTest - Elapsed: 11 23.899 / hello11/service
+22:55:44.903 [pool-1-thread-27] INFO com.example.demo.LoadTest - Elapsed: 28 23.895 / hello28/service
+22:55:46.885 [pool-1-thread-54] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=55" resulted in 200 (OK)
+22:55:46.885 [pool-1-thread-96] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=97" resulted in 200 (OK)
+22:55:46.885 [pool-1-thread-54] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:46.885 [pool-1-thread-96] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:46.885 [pool-1-thread-54] INFO com.example.demo.LoadTest - Elapsed: 55 25.875 / hello55/service
+22:55:46.886 [pool-1-thread-96] INFO com.example.demo.LoadTest - Elapsed: 97 25.881 / hello97/service
+22:55:46.910 [pool-1-thread-69] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=70" resulted in 200 (OK)
+22:55:46.910 [pool-1-thread-95] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=96" resulted in 200 (OK)
+22:55:46.910 [pool-1-thread-41] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=42" resulted in 200 (OK)
+22:55:46.910 [pool-1-thread-69] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:46.911 [pool-1-thread-41] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:46.911 [pool-1-thread-41] INFO com.example.demo.LoadTest - Elapsed: 42 25.907 / hello42/service
+22:55:46.911 [pool-1-thread-69] INFO com.example.demo.LoadTest - Elapsed: 70 25.901 / hello70/service
+22:55:46.911 [pool-1-thread-50] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=51" resulted in 200 (OK)
+22:55:46.911 [pool-1-thread-50] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:46.911 [pool-1-thread-95] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:46.911 [pool-1-thread-50] INFO com.example.demo.LoadTest - Elapsed: 51 25.901 / hello51/service
+22:55:46.912 [pool-1-thread-95] INFO com.example.demo.LoadTest - Elapsed: 96 25.908 / hello96/service
+22:55:48.892 [pool-1-thread-3] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=4" resulted in 200 (OK)
+22:55:48.893 [pool-1-thread-3] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:48.893 [pool-1-thread-24] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=25" resulted in 200 (OK)
+22:55:48.893 [pool-1-thread-3] INFO com.example.demo.LoadTest - Elapsed: 4 27.888 / hello4/service
+22:55:48.894 [pool-1-thread-24] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:48.894 [pool-1-thread-24] INFO com.example.demo.LoadTest - Elapsed: 25 27.884 / hello25/service
+22:55:48.922 [pool-1-thread-30] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=31" resulted in 200 (OK)
+22:55:48.922 [pool-1-thread-68] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=69" resulted in 200 (OK)
+22:55:48.922 [pool-1-thread-44] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=45" resulted in 200 (OK)
+22:55:48.923 [pool-1-thread-30] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:48.923 [pool-1-thread-68] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:48.923 [pool-1-thread-30] INFO com.example.demo.LoadTest - Elapsed: 31 27.919 / hello31/service
+22:55:48.922 [pool-1-thread-89] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=90" resulted in 200 (OK)
+22:55:48.923 [pool-1-thread-68] INFO com.example.demo.LoadTest - Elapsed: 69 27.913 / hello69/service
+22:55:48.923 [pool-1-thread-44] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:48.923 [pool-1-thread-89] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:48.923 [pool-1-thread-44] INFO com.example.demo.LoadTest - Elapsed: 45 27.919 / hello45/service
+22:55:48.923 [pool-1-thread-89] INFO com.example.demo.LoadTest - Elapsed: 90 27.913 / hello90/service
+22:55:50.899 [pool-1-thread-14] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=15" resulted in 200 (OK)
+22:55:50.900 [pool-1-thread-49] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=50" resulted in 200 (OK)
+22:55:50.900 [pool-1-thread-14] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:50.900 [pool-1-thread-49] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:50.900 [pool-1-thread-14] INFO com.example.demo.LoadTest - Elapsed: 15 29.893 / hello15/service
+22:55:50.900 [pool-1-thread-49] INFO com.example.demo.LoadTest - Elapsed: 50 29.892 / hello50/service
+22:55:50.930 [pool-1-thread-37] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=38" resulted in 200 (OK)
+22:55:50.930 [pool-1-thread-90] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=91" resulted in 200 (OK)
+22:55:50.930 [pool-1-thread-7] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=8" resulted in 200 (OK)
+22:55:50.931 [pool-1-thread-90] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:50.931 [pool-1-thread-37] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:50.931 [pool-1-thread-90] INFO com.example.demo.LoadTest - Elapsed: 91 29.927 / hello91/service
+22:55:50.931 [pool-1-thread-37] INFO com.example.demo.LoadTest - Elapsed: 38 29.927 / hello38/service
+22:55:50.931 [pool-1-thread-7] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:50.931 [pool-1-thread-7] INFO com.example.demo.LoadTest - Elapsed: 8 29.921 / hello8/service
+22:55:52.906 [pool-1-thread-99] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=100" resulted in 200 (OK)
+22:55:52.906 [pool-1-thread-35] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=36" resulted in 200 (OK)
+22:55:52.907 [pool-1-thread-99] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:52.907 [pool-1-thread-35] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:52.907 [pool-1-thread-99] INFO com.example.demo.LoadTest - Elapsed: 100 31.902 / hello100/service
+22:55:52.907 [pool-1-thread-35] INFO com.example.demo.LoadTest - Elapsed: 36 31.904 / hello36/service
+22:55:52.939 [pool-1-thread-52] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=53" resulted in 200 (OK)
+22:55:52.940 [pool-1-thread-52] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:52.940 [pool-1-thread-52] INFO com.example.demo.LoadTest - Elapsed: 53 31.936 / hello53/service
+22:55:54.913 [pool-1-thread-91] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=92" resulted in 200 (OK)
+22:55:54.913 [pool-1-thread-28] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=29" resulted in 200 (OK)
+22:55:54.914 [pool-1-thread-91] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:54.914 [pool-1-thread-28] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:54.914 [pool-1-thread-28] INFO com.example.demo.LoadTest - Elapsed: 29 33.91 / hello29/service
+22:55:54.914 [pool-1-thread-91] INFO com.example.demo.LoadTest - Elapsed: 92 33.904 / hello92/service
+22:55:54.949 [pool-1-thread-55] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=56" resulted in 200 (OK)
+22:55:54.949 [pool-1-thread-55] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:54.949 [pool-1-thread-55] INFO com.example.demo.LoadTest - Elapsed: 56 33.945 / hello56/service
+22:55:56.917 [pool-1-thread-93] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=94" resulted in 200 (OK)
+22:55:56.917 [pool-1-thread-32] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=33" resulted in 200 (OK)
+22:55:56.917 [pool-1-thread-93] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:56.917 [pool-1-thread-32] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:56.918 [pool-1-thread-32] INFO com.example.demo.LoadTest - Elapsed: 33 35.914 / hello33/service
+22:55:56.918 [pool-1-thread-93] INFO com.example.demo.LoadTest - Elapsed: 94 35.915 / hello94/service
+22:55:58.923 [pool-1-thread-86] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=87" resulted in 200 (OK)
+22:55:58.923 [pool-1-thread-45] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=46" resulted in 200 (OK)
+22:55:58.923 [pool-1-thread-86] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:58.923 [pool-1-thread-45] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:55:58.924 [pool-1-thread-45] INFO com.example.demo.LoadTest - Elapsed: 46 37.919 / hello46/service
+22:55:58.924 [pool-1-thread-86] INFO com.example.demo.LoadTest - Elapsed: 87 37.914 / hello87/service
+22:56:00.928 [pool-1-thread-56] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=57" resulted in 200 (OK)
+22:56:00.928 [pool-1-thread-19] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=20" resulted in 200 (OK)
+22:56:00.929 [pool-1-thread-56] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:00.929 [pool-1-thread-19] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:00.929 [pool-1-thread-19] INFO com.example.demo.LoadTest - Elapsed: 20 39.925 / hello20/service
+22:56:00.929 [pool-1-thread-56] INFO com.example.demo.LoadTest - Elapsed: 57 39.924 / hello57/service
+22:56:02.933 [pool-1-thread-26] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=27" resulted in 200 (OK)
+22:56:02.933 [pool-1-thread-4] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=5" resulted in 200 (OK)
+22:56:02.933 [pool-1-thread-4] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:02.933 [pool-1-thread-26] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:02.934 [pool-1-thread-4] INFO com.example.demo.LoadTest - Elapsed: 5 41.931 / hello5/service
+22:56:02.934 [pool-1-thread-26] INFO com.example.demo.LoadTest - Elapsed: 27 41.93 / hello27/service
+22:56:04.936 [pool-1-thread-80] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=81" resulted in 200 (OK)
+22:56:04.936 [pool-1-thread-42] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=43" resulted in 200 (OK)
+22:56:04.936 [pool-1-thread-80] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:04.936 [pool-1-thread-42] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:04.937 [pool-1-thread-80] INFO com.example.demo.LoadTest - Elapsed: 81 43.934 / hello81/service
+22:56:04.937 [pool-1-thread-42] INFO com.example.demo.LoadTest - Elapsed: 43 43.934 / hello43/service
+22:56:06.938 [pool-1-thread-66] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=67" resulted in 200 (OK)
+22:56:06.938 [pool-1-thread-46] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=47" resulted in 200 (OK)
+22:56:06.939 [pool-1-thread-66] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:06.939 [pool-1-thread-46] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:06.939 [pool-1-thread-66] INFO com.example.demo.LoadTest - Elapsed: 67 45.934 / hello67/service
+22:56:06.939 [pool-1-thread-46] INFO com.example.demo.LoadTest - Elapsed: 47 45.933 / hello47/service
+22:56:08.946 [pool-1-thread-74] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=75" resulted in 200 (OK)
+22:56:08.946 [pool-1-thread-17] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=18" resulted in 200 (OK)
+22:56:08.946 [pool-1-thread-74] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:08.946 [pool-1-thread-17] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:08.946 [pool-1-thread-74] INFO com.example.demo.LoadTest - Elapsed: 75 47.944 / hello75/service
+22:56:08.946 [pool-1-thread-17] INFO com.example.demo.LoadTest - Elapsed: 18 47.938 / hello18/service
+22:56:10.951 [pool-1-thread-47] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=48" resulted in 200 (OK)
+22:56:10.951 [pool-1-thread-77] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=78" resulted in 200 (OK)
+22:56:10.951 [pool-1-thread-77] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:10.951 [pool-1-thread-47] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:10.951 [pool-1-thread-77] INFO com.example.demo.LoadTest - Elapsed: 78 49.946 / hello78/service
+22:56:10.951 [pool-1-thread-47] INFO com.example.demo.LoadTest - Elapsed: 48 49.946 / hello48/service
+22:56:12.955 [pool-1-thread-53] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=54" resulted in 200 (OK)
+22:56:12.955 [pool-1-thread-6] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=7" resulted in 200 (OK)
+22:56:12.956 [pool-1-thread-53] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:12.956 [pool-1-thread-6] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:12.956 [pool-1-thread-53] INFO com.example.demo.LoadTest - Elapsed: 54 51.946 / hello54/service
+22:56:12.956 [pool-1-thread-6] INFO com.example.demo.LoadTest - Elapsed: 7 51.952 / hello7/service
+22:56:14.962 [pool-1-thread-1] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=2" resulted in 200 (OK)
+22:56:14.962 [pool-1-thread-1] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:14.962 [pool-1-thread-1] INFO com.example.demo.LoadTest - Elapsed: 2 53.953 / hello2/service
+22:56:14.964 [pool-1-thread-81] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=82" resulted in 200 (OK)
+22:56:14.964 [pool-1-thread-81] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:14.964 [pool-1-thread-81] INFO com.example.demo.LoadTest - Elapsed: 82 53.958 / hello82/service
+22:56:16.967 [pool-1-thread-25] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=26" resulted in 200 (OK)
+22:56:16.968 [pool-1-thread-25] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:16.968 [pool-1-thread-25] INFO com.example.demo.LoadTest - Elapsed: 26 55.965 / hello26/service
+22:56:18.973 [pool-1-thread-60] DEBUG org.springframework.web.client.RestTemplate - GET request for "http://localhost:8080/rest?idx=61" resulted in 200 (OK)
+22:56:18.973 [pool-1-thread-60] DEBUG org.springframework.web.client.RestTemplate - Reading [java.lang.String] as "text/plain;charset=UTF-8" using [org.springframework.http.converter.StringHttpMessageConverter@44fc5e8b]
+22:56:18.974 [pool-1-thread-60] INFO com.example.demo.LoadTest - Elapsed: 61 57.967 / hello61/service
+22:56:18.974 [main] INFO com.example.demo.LoadTest - Total: 57.993
